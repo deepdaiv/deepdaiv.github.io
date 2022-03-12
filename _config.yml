@@ -1,7 +1,7 @@
-site: deep daiv.
+site: Made Jekyll Theme
 
-url: https://deepdaiv.github.io/
-baseurl: https://deepdaiv.github.io/posts
+url: 
+baseurl: 
 
 collections:
   pages:
