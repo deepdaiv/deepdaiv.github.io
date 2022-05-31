@@ -13,13 +13,13 @@ menu_settings:
     - title: 'Posts' # Blog
       url: '/blog/'
     - title: 'WiKi' 
-      url: '/'
+      url: '/blog/' #이후 url 수정
     - title: 'About Us'
       url: '/about/'
     - title: 'STUDY'
-      url: '/'
+      url: '/blog/' #이후 url 수정
     - title: 'EVENT'
-      url: '/'
+      url: '/blog/' #이후 url 수정
 
 footer_settings:
   logo_image: 
@@ -27,7 +27,7 @@ footer_settings:
   tagline: A beautiful, minimal portfolio Jekyll theme
 
 hero_settings:
-  background_image: /images/backgrounds/background-hero.svg
+  background_image: /images/backgrounds/deep daiv. Cover 22.05.09@2x.png
 
 post_settings:
   grid_spacing: 10
@@ -90,9 +90,9 @@ font_settings:
     weight: 700
     letter_spacing: -0.02
   menu:
-    small_size: 30
-    medium_size: 15
-    large_size: 17
+    small_size: 32
+    medium_size: 17
+    large_size: 19
     weight: 600
     letter_spacing: 0
   h1:
