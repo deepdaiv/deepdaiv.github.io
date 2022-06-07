@@ -8,17 +8,17 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'HOME' # Project
+    - title: '홈' # Project
       url: '/'
-    - title: 'Posts' # Blog
+    - title: '포스트' # Blog
       url: '/blog/'
-    - title: 'WiKi' 
+    - title: '위키' 
       url: '/blog/' #이후 url 수정
-    - title: 'About Us'
+    - title: '팀 소개'
       url: '/about/'
-    - title: 'STUDY'
+    - title: '스터디'
       url: '/blog/' #이후 url 수정
-    - title: 'EVENT'
+    - title: '이벤트'
       url: '/blog/' #이후 url 수정
 
 footer_settings:
